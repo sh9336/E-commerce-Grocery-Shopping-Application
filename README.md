@@ -1,16 +1,5 @@
 # shop
 
 A new Flutter project.
+![home1](https://github.com/sh9336/E-commerce-Grocery-Shopping-Application/assets/96333039/bd0cce3f-b65f-43f6-8a52-ef2c58fa572e)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
